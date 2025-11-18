@@ -4,7 +4,7 @@
 
 ## Economy
 
-* [Fresque](economy/fresque/README.md)
+* [Fresque](economy/overview.md)
   * [Précurseurs](economy/fresque/precurseurs.md)
   * [Classiques](economy/fresque/classiques.md)
   * [Marxistes](economy/fresque/marxistes.md)
