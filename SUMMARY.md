@@ -4,8 +4,15 @@
 
 ## Economy
 
-* [Overview](economy/overview.md)
-* [Resources](economy/resources.md)
+* [Fresque](economy/fresque/README.md)
+  * [Précurseurs](economy/fresque/precurseurs.md)
+  * [Classiques](economy/fresque/classiques.md)
+  * [Marxistes](economy/fresque/marxistes.md)
+  * [Néoclassiques](economy/fresque/neoclassiques.md)
+  * [Schumpeter](economy/fresque/schumpeter.md)
+  * [Keynésiens](economy/fresque/keynesiens.md)
+* [Mécanismes](economy/mecanismes.md)
+* [Politiques](economy/politiques.md)
 
 ## History
 

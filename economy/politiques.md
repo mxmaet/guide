@@ -15,5 +15,6 @@ layout:
     visible: true
 ---
 
-# Resources
+# Politiques
 
+<figure><img src="../.gitbook/assets/Overview_level4.png" alt=""><figcaption><p>Applications Politiques</p></figcaption></figure>
