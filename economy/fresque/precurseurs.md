@@ -17,6 +17,8 @@ layout:
 
 # Précurseurs
 
+## Les Précurseurs de la Pensée Économique
+
 Bien avant que l'économie ne devienne une discipline autonome, [des penseurs de l'Antiquité à l'époque moderne](https://www.citeco.fr/histoire-pensee-economique/index.php#precurseurs) ont réfléchi aux questions économiques. Leurs approches ont évolué : d'abord marquées par des préoccupations morales et religieuses avec Aristote et Thomas d'Aquin, elles se sont progressivement affranchies de ces considérations avec les mercantilistes et les physiocrates, posant ainsi les bases de la science économique moderne.
 
 ***
