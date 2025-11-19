@@ -11,7 +11,9 @@
   * [Néoclassiques](economy/fresque/neoclassiques.md)
   * [Schumpeter](economy/fresque/schumpeter.md)
   * [Keynésiens](economy/fresque/keynesiens.md)
-* [Mécanismes](economy/mecanismes.md)
+* [Mécanismes](economy/mecanismes/README.md)
+  * [Indicateur](economy/mecanismes/indicateur.md)
+  * [Monnaie](economy/mecanismes/monnaie.md)
 * [Politiques](economy/politiques.md)
 
 ## History

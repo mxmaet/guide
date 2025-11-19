@@ -15,6 +15,6 @@ layout:
     visible: true
 ---
 
-# Mécanismes
+# Monnaie
 
-<figure><img src="../.gitbook/assets/Overview_level3.png" alt=""><figcaption><p>Mécanismes et Concepts</p></figcaption></figure>
+Inflation
