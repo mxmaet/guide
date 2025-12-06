@@ -821,3 +821,12 @@ Indépendamment de toute opinion politique : Vincent Brousseau, en tant qu'exper
 **L'euro est terminé.**
 
 La volonté de l'Allemagne, les déséquilibres TARGET2 insurmontables, et la stratégie de limitation progressive rendent la dissolution **inévitable**.
+
+***
+
+#### Ressources
+
+* [L’Euro, avant, pendant et après – par Vincent Brousseau](https://www.upr.fr/conferences/l-euro-avant-pendant-et-apres/)
+* [Le retour au franc – par Vincent Brousseau](https://www.upr.fr/conferences/le-retour-au-franc/)
+* [L' euro et la crise financière – par Vincent Brousseau](https://www.youtube.com/watch?v=V8dlaGJ9G6U)
+* Pour aller plus loin : [Le livre en hommage à Vincent Brousseau](https://reprenonslecontrole.fr/leuro-piege-mortel-le-livre-en-hommage-a-vincent-brousseau-est-disponible/)
