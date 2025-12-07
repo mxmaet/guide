@@ -32,6 +32,19 @@ Source : [London Stock Exchange Group (LSEG)](https://www.tf1info.fr/economie/ve
 
 ### Les Rachats Emblématiques
 
+#### Les Géants Perdus
+
+Ces quatre cas illustrent la disparition des champions français dans des secteurs stratégiques au profit d'acteurs étrangers :
+
+**1. Arcelor (2006)** - Sidérurgie → Mittal (Inde) - 26,9 Mds€\
+**2. Pechiney (2003)** - Aluminium → Alcan (Canada) puis Rio Tinto - 5 Mds$\
+**3. Lafarge (2015)** - Ciment → Holcim (Suisse) - Fusion-absorption\
+**4. Essilor (2018)** - Optique → Luxottica (Italie) - Fusion 50 Mds€
+
+***
+
+#### Les Rachats Américains Stratégiques
+
 #### Gemplus (2000-2002) - L'Infiltration
 
 **Montant :** 550 millions de dollars (26% du capital)\
@@ -212,6 +225,7 @@ Les start-ups et PME françaises innovantes **manquent de fonds** pour se dével
 * A créé le "décret Alstom" pour contrôler les investissements étrangers
 * Appelle à la création d'un **délit pénal de "trahison économique"**
 * Propose un droit de veto de l'État sur les décisions stratégiques d'entreprises sensibles
+* [Le prix de la trahison de la France ? Entre 10 et 15 millions.](https://www.youtube.com/shorts/_v5XCyPmHrQ)
 
 **Bernard Carayon** (député, rapport 2003) :
 
