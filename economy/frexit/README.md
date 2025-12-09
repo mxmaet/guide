@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Frexit ?
+# Frexit ?!
 
 ### La construction européenne : une stratégie géopolitique américaine
 
@@ -40,14 +40,6 @@ Le Council on Foreign Relations (think tank conseillant le gouvernement américa
 
 **Doctrine explicite** : Maintenir la prééminence américaine sur tous les rivaux potentiels - [Source](https://cdn.cfr.org/sites/default/files/pdf/2015/04/China_CSR72.pdf) (**Psychologie** p18 "Since its founding..." ; **Stratégie** p19 "strategy must...")
 
-#### Témoignage de De Gaulle (1961-1962)
-
-De Gaulle parlait d'un **fédérateur du dehors** : une puissance extérieure qui pousse à l'intégration européenne tout en s'assurant qu'elle ne développe pas de politique propre indépendante.
-
-**Vision gaullienne** : l'Europe intégrée serait une Europe sans capacité de décision autonome, soumise aux intérêts américains.
-
-[Source](https://fresques.ina.fr/de-gaulle/fiche-media/Gaulle00078/conference-de-presse-du-15-mai-1962-questions-europeennes.html) ("Y a-t-il une France...je le répète, un fédérateur")
-
 #### Tactique innovante pour l'Europe
 
 **Contre la Chine et la Russie** : méthodes classiques (pression militaire, encerclement, sanctions).
@@ -59,6 +51,14 @@ De Gaulle parlait d'un **fédérateur du dehors** : une puissance extérieure qu
 * **UE** : transfert de souveraineté législative
 * **OTAN** : transfert de souveraineté militaire
 * **Euro** : transfert de souveraineté monétaire (sans précédent historique - aucune union monétaire comparable n'a jamais existé entre États souverains développés)
+
+#### Témoignage de De Gaulle (1961-1962)
+
+De Gaulle parlait d'un **fédérateur du dehors** : une puissance extérieure qui pousse à l'intégration européenne tout en s'assurant qu'elle ne développe pas de politique propre indépendante.
+
+**Vision gaullienne** : l'Europe intégrée serait une Europe sans capacité de décision autonome, soumise aux intérêts américains.
+
+[Source](https://fresques.ina.fr/de-gaulle/fiche-media/Gaulle00078/conference-de-presse-du-15-mai-1962-questions-europeennes.html) ("Y a-t-il une France...je le répète, un fédérateur")
 
 #### Preuves historiques
 
