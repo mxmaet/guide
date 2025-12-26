@@ -17,4 +17,6 @@ layout:
 
 # Les Temps modernes
 
-<figure><img src="../../.gitbook/assets/temps-moderne.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/temps-moderne1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/temps-moderne2.png" alt=""><figcaption></figcaption></figure>

@@ -20,3 +20,5 @@ layout:
 <figure><img src="../../.gitbook/assets/epoque-contemporaine1.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/epoque-contemporaine2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/epoque-contemporaine3.png" alt=""><figcaption></figcaption></figure>
