@@ -15,5 +15,6 @@ layout:
     visible: true
 ---
 
-# History
+# Les Temps modernes
 
+<figure><img src="../../.gitbook/assets/temps-moderne.png" alt=""><figcaption></figcaption></figure>

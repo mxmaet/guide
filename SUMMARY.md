@@ -18,4 +18,10 @@
 
 ## History
 
-* [History](history/history.md)
+* [Histoire](history/histoire/README.md)
+  * [Avant les Hommes](history/histoire/avant-les-hommes.md)
+  * [La Préhistoire](history/histoire/la-prehistoire.md)
+  * [L'Antiquité](history/histoire/lantiquite.md)
+  * [Le Moyen Age](history/histoire/le-moyen-age.md)
+  * [Les Temps modernes](history/histoire/les-temps-modernes.md)
+  * [L'Epoque contemporaine](history/histoire/lepoque-contemporaine.md)
